@@ -1,0 +1,7 @@
+;Binary equivalent of weight and activation
+memory_initialization_radix=2;
+memory_initialization_vector=
+0000110000110111,
+0001101000001011,
+1110110100100101,
+1111000001100100;
