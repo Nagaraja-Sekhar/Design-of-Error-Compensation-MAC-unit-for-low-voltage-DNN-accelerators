@@ -1,1 +1,2 @@
-
+The Python scripts in this folder generate random float values, and quantize them. The quantized results are converted to binary and written into .coe file. 
+The actual computation result is also calculated to check for the error between the actual float MAC operation and the quantized MAC operation.
